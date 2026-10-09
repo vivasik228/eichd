@@ -1,6 +1,6 @@
-:HL["/eichd/_next/static/chunks/27v51ulznh0ku.css","style"]
+:HL["/eichd/_next/static/chunks/2zgixsgb-9o2f.css","style"]
 :HL["/eichd/_next/static/media/Onest_Variable-s.p.0bvr_lyh6x35u.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"velora","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":131168,"c":"$Q2"}]]
-0:{"b":"NTP90HS7KIEG6kbMVzxOa","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"KQmg8PPAKIe5FfBPCmeql","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
